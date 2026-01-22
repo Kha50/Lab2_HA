@@ -14,7 +14,7 @@ The crawler used Selenium and BeautifulSoup to simulate user interaction with Yo
 ---
 
 ## Why This Comparison
-I chose football as the topic because it has a large and diverse presence on YouTube, ranging from game coverage to commentary and entertainment. Although all three search terms relate to the same sport, they represent different ways audiences engage with football content. Also, I am a big fan of football myself and with the playoffs going on, I was interested in seeing the results
+I chose football as the topic because it has a large and diverse presence on YouTube, ranging from game coverage to commentary and entertainment. Although all three search terms relate to the same sport, they represent different ways audiences engage with football content. Also, I am a big fan of football myself and with the playoffs going on, I was interested in seeing the results.
 
 I expected searches such as **NFL highlights** to focus more on viewing and replay content, while **Super Bowl** searches would emphasize the event itself, including cultural and entertainment elements. Comparing these search terms allows for an examination of how the same sport can be framed differently depending on user intent.
 
